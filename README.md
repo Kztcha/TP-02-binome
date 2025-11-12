@@ -45,3 +45,14 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 * `git clone URL` : crée un nouveau dépôt local à partir d’un dépôt distant.
 * `git remote add origin URL` : ajoute un dépôt distant à un dépôt local déjà existant.
+
+
+# **V. Étape 5:  Collaboration - Clonage et modifications**
+
+
+
+**21 :**
+
+* Création du répertoire: mkdir TP-Binome, on se place dedans: cd TP-Binome puis on clone le depot: git clone <https://github.com/Kztcha/TP-02-binome>
+* Modifier le fichier: éditeur README.md, ajouter et commiter les changements: git add README.md puis git commit -m "Modification du README.md"
+* Pousser les modifications: git push
