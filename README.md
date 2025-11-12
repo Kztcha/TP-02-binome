@@ -118,3 +118,12 @@ contenu "Première note". Commitez: git commit -m "EA : premier commit »
 *You are in 'detached HEAD' state. You can look around, make experimental
 *changes and commit them, and you can discard any commits you make in this
 *state without impacting any branches by switching back to a branch.
+
+**40 :**
+
+*Apres etre retourné sur la main locale et utilisé git pull, on aperçoit finalement la deuxieme ligne du fichier notes.txt
+
+**41 :**
+
+* git fetch: pour voir les changements avant de décider de les fusionner.
+* git pull: pour récupérer et appliquer immédiatement les changements distants.
