@@ -52,4 +52,4 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 25:
 
-    Apres avoir utiliser les commandes git push et git pull avec l’option origin main une fois , il nest plus nécessaire d'utiliser l'option les fois suivantes.
+    Apres avoir utiliser les commandes git push et git pull avec l’option origin main une fois , il n'est plus nécessaire d'utiliser l'option les fois suivantes.
