@@ -82,3 +82,16 @@ hint: have locally. This is usually caused by another repository pushing to
 hint: the same ref. If you want to integrate the remote changes, use
 hint: 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+# **VII. Étape 7:  Comprendre la différence entre git pull et git fetch**
+
+**29 :**
+
+* ÉTUDIANT A crée un nouveau dépôt sur GitHub et y ajoute un fichier notes.txt avec le 
+contenu "Première note". Commitez: git commit -m "EA : premier commit » 
+
+**31 :**
+
+*On se place dans le dossier puis clone le depot : git clone https://github.com/....
+
