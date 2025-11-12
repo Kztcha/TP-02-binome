@@ -97,6 +97,6 @@ contenu "Première note". Commitez: git commit -m "EA : premier commit »
 
 **31 :**
 
-*git add . 
+*git add notes.txt
 *git commit -m "ajout du texte"
 *git push
