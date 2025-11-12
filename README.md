@@ -15,5 +15,7 @@
 
     12: git git commit -m "Ajout de README.md"
 
-	13: git status      git log --oneline
+	13:git status      git log --oneline
+	
+
 
