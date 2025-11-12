@@ -1,4 +1,4 @@
-**<h1>I. 1. Étape 1: Configuration initiale</h1>**
+# **I. 1. Étape 1: Configuration initiale**
 
     1: git config --global user.name "NOM"
 
