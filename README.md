@@ -95,7 +95,7 @@ contenu "Première note". Commitez: git commit -m "EA : premier commit »
 
 *On se place dans le dossier puis clone le depot : git clone https://github.com/....
 
-**31 :**
+**32 :**
 
 *git add notes.txt
 *git commit -m "ajout du texte"
