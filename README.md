@@ -29,11 +29,7 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-
-
 # **IV. Étape 4: Création d'un dépôt sur GitHub et push**
-
-
 
 **14 :**
 
@@ -46,10 +42,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 * `git clone URL` : crée un nouveau dépôt local à partir d’un dépôt distant.
 * `git remote add origin URL` : ajoute un dépôt distant à un dépôt local déjà existant.
 
-
 # **V. Étape 5:  Collaboration - Clonage et modifications**
-
-
 
 **21 :**
 
@@ -63,4 +56,5 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 **24 :**
 * L'etudiant 1 recupere les modifications avec git pull origin main
+
 
