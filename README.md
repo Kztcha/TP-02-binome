@@ -28,3 +28,20 @@ Changes not staged for commit:
         modified:   README.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+
+
+# **IV. Étape 4: Création d'un dépôt sur GitHub et push**
+
+
+
+**14 :**
+
+* `git remote add origin [URL]` : lie le dépôt local au dépôt distant.
+* `git push -u origin master` : envoie la branche *master* vers le dépôt distant et définit *origin/master* comme suivi par défaut.
+* `git push --set-upstream origin master` : même fonction que la précédente, syntaxe alternative.
+
+**15 :**
+
+* `git clone URL` : crée un nouveau dépôt local à partir d’un dépôt distant.
+* `git remote add origin URL` : ajoute un dépôt distant à un dépôt local déjà existant.
