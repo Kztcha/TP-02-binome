@@ -3,7 +3,7 @@
     1: git config --global user.name "NOM"
 
 
-3: git config --list
+	3: git config --list
 
     2: git config --global user.email "EMAIL"
 
