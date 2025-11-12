@@ -98,5 +98,13 @@ contenu "Première note". Commitez: git commit -m "EA : premier commit »
 **32 :**
 
 *git add notes.txt
-*git commit -m "ajout du texte"
+*git commit -m "Deuxieme note"
 *git push
+
+**34 :**
+
+*Apres git fetch on remarque que le deuxieme étudiant ne voit pas cette nouvelle Ligne
+
+**35 :**
+
+*Le git log du deuxieme étudiant ne contient pas encore le commit de la deuxième note.
