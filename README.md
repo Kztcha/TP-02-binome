@@ -6,6 +6,7 @@
 
     3: git config --list
 
+<<<<<<< HEAD
 # **II.Étape 2: Création d'un dépôt local**
 
     4: On utilise `git init` quand on veut **initialiser un dépôt Git dans un dossier déjà existant**.
@@ -127,3 +128,18 @@ contenu "Première note". Commitez: git commit -m "EA : premier commit »
 
 * git fetch: pour voir les changements avant de décider de les fusionner.
 * git pull: pour récupérer et appliquer immédiatement les changements distants.
+=======
+# **III. Étape 3: Premier commit**
+
+    10: git log affiche l’historique des commits (enregistrements de modifications) du dépôt Git.
+		git status montre l’état actuel du répertoire de travail et du staging area.
+	
+    11: git add README.md
+
+    12: git git commit -m "Ajout de README.md"
+
+	13:git status      git log --oneline
+	
+
+
+>>>>>>> origin/Maelle
