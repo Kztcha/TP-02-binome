@@ -63,3 +63,13 @@ no changes added to commit (use "git add" and/or "git commit -a")
 **25 :**    
 
 - Apres avoir utiliser les commandes git push et git pull avec l’option origin main une fois , il n'est plus nécessaire d'utiliser l'option les fois suivantes.
+
+
+
+# **VI. Étape 6: Gestion des conflits**
+
+
+
+**26:**
+
+Ligne test conflit
