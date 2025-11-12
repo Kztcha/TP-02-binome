@@ -8,7 +8,7 @@
 
 # **III. Étape 3: Premier commit**
 
-    10:git log affiche l’historique des commits (enregistrements de modifications) du dépôt Git.
+    10: git log affiche l’historique des commits (enregistrements de modifications) du dépôt Git.
 		git status montre l’état actuel du répertoire de travail et du staging area.
 	
     11: git add README.md
