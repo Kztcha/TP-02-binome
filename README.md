@@ -54,5 +54,13 @@ no changes added to commit (use "git add" and/or "git commit -a")
 **21 :**
 
 * Création du répertoire: mkdir TP-Binome, on se place dedans: cd TP-Binome puis on clone le depot: git clone <https://github.com/Kztcha/TP-02-binome>
+
+**22 :**
 * Modifier le fichier: éditeur README.md, ajouter et commiter les changements: git add README.md puis git commit -m "Modification du README.md"
-* Pousser les modifications: git push
+
+**23 :**
+* Pousser les modifications: git push origin main
+
+**24 :**
+* L'etudiant 1 recupere les modifications avec git pull origin main
+
