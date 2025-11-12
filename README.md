@@ -108,3 +108,13 @@ contenu "Première note". Commitez: git commit -m "EA : premier commit »
 **35 :**
 
 *Le git log du deuxieme étudiant ne contient pas encore le commit de la deuxième note.
+
+**36 :**
+
+*maell@MSI MINGW64 ~/TPbinome/TP-02-binome (main)
+*$ git checkout origin/main
+*Note: switching to 'origin/main'.
+
+*You are in 'detached HEAD' state. You can look around, make experimental
+*changes and commit them, and you can discard any commits you make in this
+*state without impacting any branches by switching back to a branch.
